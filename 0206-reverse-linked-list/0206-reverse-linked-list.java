@@ -10,22 +10,12 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        if(head==null){
-            return null;
+        if(head==null || head.next==null){
+            return head;
         }
-        List<Integer> values =new ArrayList<>();
-        ListNode curr =head;
-        while(curr!=null){
-            values.add(curr.val);
-            curr=curr.next;
-        }
-        curr=head;
-        int index=values.size()-1;
-        while(curr!=null){
-            curr.val=values.get(index);
-            index--;
-            curr=curr.next;
-        }
-        return head;
+        ListNode newHead =reverseList(head.next);
+        head.next.next=head;
+        head.next=null;
+        return newHead;
     }
 }
