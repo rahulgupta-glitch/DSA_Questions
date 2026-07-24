@@ -26,4 +26,16 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
