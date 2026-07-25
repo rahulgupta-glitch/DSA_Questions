@@ -41,4 +41,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
