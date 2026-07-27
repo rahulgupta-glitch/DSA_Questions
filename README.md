@@ -32,12 +32,14 @@
 | [0155-min-stack](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -51,4 +53,12 @@
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/3536-maximum-product-of-two-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
