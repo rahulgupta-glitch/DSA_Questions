@@ -53,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Monotonic Stack
 |  |
@@ -70,4 +71,9 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
+## Array
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
