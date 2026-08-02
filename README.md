@@ -17,6 +17,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0138-copy-list-with-random-pointer) |
 ## Depth-First Search
 |  |
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0901-online-stock-span) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
