@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0138-copy-list-with-random-pointer) |
 ## Depth-First Search
 |  |
@@ -71,11 +72,25 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
