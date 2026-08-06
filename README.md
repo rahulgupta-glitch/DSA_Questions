@@ -71,9 +71,11 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
