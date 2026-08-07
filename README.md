@@ -51,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@
 | [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
+| [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
