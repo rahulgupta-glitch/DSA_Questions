@@ -23,6 +23,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
 ## Array
 |  |
 | ------- |
@@ -86,10 +89,12 @@
 | [0040-combination-sum-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
