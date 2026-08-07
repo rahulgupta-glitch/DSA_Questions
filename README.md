@@ -75,12 +75,14 @@
 | [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0051-n-queens) |
 ## Array
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
