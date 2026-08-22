@@ -19,6 +19,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
 ## Depth-First Search
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -183,6 +185,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
