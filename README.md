@@ -106,6 +106,7 @@
 | [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -183,4 +184,9 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
