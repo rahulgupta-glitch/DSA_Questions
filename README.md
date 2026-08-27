@@ -110,6 +110,7 @@
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
+| [1046-last-stone-weight](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1046-last-stone-weight) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
