@@ -67,6 +67,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 | [2235-add-two-integers](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2413-smallest-even-multiple) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -209,4 +210,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
