@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2413-smallest-even-multiple) |
@@ -90,6 +91,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
+| [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
 | ------- |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2413-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
