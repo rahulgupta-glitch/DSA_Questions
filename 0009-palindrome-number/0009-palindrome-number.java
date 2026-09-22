@@ -8,7 +8,6 @@ class Solution {
             y=y*10+digit;
             x/=10;
         }
-        if(y!=temp) return false;
-        else return true;
+        return (y==temp);
     }
 }
