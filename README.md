@@ -68,6 +68,7 @@
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2413-smallest-even-multiple) |
@@ -224,4 +225,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
