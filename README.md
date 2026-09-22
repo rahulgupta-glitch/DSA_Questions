@@ -73,6 +73,7 @@
 | [2235-add-two-integers](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
