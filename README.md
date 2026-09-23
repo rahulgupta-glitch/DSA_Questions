@@ -65,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
