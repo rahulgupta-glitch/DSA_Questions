@@ -9,7 +9,9 @@ class Solution {
             if (rev < Integer.MIN_VALUE / 10 || (rev == Integer.MIN_VALUE / 10 && digit < -8)) {
                 return 0;
             }
+        
             rev=(rev*10+digit);
+            //if(rev > Integer.MAX_VALUE || rev <Integer.MIN_VALUE) return 0;
             x/=10;
         }
         return rev;
