@@ -74,6 +74,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1837-sum-of-digits-in-base-k) |
+| [2119-a-number-after-a-double-reversal](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2652-sum-multiples) |
