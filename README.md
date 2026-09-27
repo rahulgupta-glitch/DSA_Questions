@@ -75,6 +75,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1837-sum-of-digits-in-base-k) |
+| [1952-three-divisors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2413-smallest-even-multiple) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2413-smallest-even-multiple) |
 ## Simulation
 |  |
@@ -238,4 +240,16 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
