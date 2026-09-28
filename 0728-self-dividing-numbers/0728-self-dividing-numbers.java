@@ -14,7 +14,9 @@ class Solution {
     public List<Integer> selfDividingNumbers(int left, int right) {
         List<Integer> result = new ArrayList<>();
         for(int i=left;i<=right;i++){
-            if(isSelfDividingNo(i)==true) result.add(i);
+            if(isSelfDividingNo(i)){
+                result.add(i);
+            } 
         }
         return result;
     }
