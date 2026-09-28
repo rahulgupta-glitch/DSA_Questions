@@ -1,9 +1,9 @@
 class Solution {
-    private boolean isSelfDividingNo(int i){
-        int n=i;
+    private boolean isSelfDividingNo(int num){
+        int n=num;
         while(n>0){
             int digit=n%10;
-            if(digit==0 || i%digit!=0){
+            if(digit==0 || num%digit!=0){
                 return false;
             }
             n/=10;
