@@ -71,6 +71,7 @@
 | [0258-add-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
