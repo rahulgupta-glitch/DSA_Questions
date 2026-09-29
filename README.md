@@ -80,6 +80,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -233,6 +234,7 @@
 | [0258-add-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2427-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -254,4 +257,12 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
