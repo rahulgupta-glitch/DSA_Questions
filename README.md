@@ -73,6 +73,7 @@
 | [0507-perfect-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1837-sum-of-digits-in-base-k) |
@@ -131,6 +132,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
 | [1046-last-stone-weight](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1046-last-stone-weight) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1470-shuffle-the-array) |
