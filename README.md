@@ -77,6 +77,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -144,6 +145,7 @@
 | [1470-shuffle-the-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1929-concatenation-of-array) |
 ## Matrix
