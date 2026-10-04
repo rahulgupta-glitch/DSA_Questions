@@ -9,7 +9,7 @@ class Solution {
                 }
             }
             ans[i]=count;
-            count=0;
+            //count=0;
         }
         return ans;
     }
