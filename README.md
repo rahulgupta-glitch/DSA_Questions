@@ -98,6 +98,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Monotonic Stack
 |  |
@@ -151,6 +152,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1929-concatenation-of-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -294,4 +296,5 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1512-number-of-good-pairs) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 <!---LeetCode Topics End-->
