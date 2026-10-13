@@ -134,6 +134,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0040-combination-sum-ii) |
@@ -183,6 +184,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0283-move-zeroes) |
 ## Tree
