@@ -99,6 +99,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -149,6 +150,7 @@
 | [0485-max-consecutive-ones](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0485-max-consecutive-ones) |
 | [0896-monotonic-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -187,6 +189,7 @@
 | [0027-remove-element](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
