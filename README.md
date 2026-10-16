@@ -70,6 +70,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
@@ -141,6 +142,7 @@
 | [0040-combination-sum-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
