@@ -168,6 +168,7 @@
 | [1512-number-of-good-pairs](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1512-number-of-good-pairs) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1920-build-array-from-permutation) |
@@ -262,6 +263,7 @@
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |
