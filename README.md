@@ -41,6 +41,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0565-array-nesting](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0565-array-nesting) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0283-move-zeroes](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0485-max-consecutive-ones) |
+| [0565-array-nesting](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0565-array-nesting) |
 | [0896-monotonic-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
