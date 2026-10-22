@@ -22,6 +22,7 @@
 | [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0202-happy-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -74,6 +75,7 @@
 | [0009-palindrome-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0507-perfect-number) |
@@ -199,6 +201,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
@@ -331,4 +334,8 @@
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
