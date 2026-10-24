@@ -107,6 +107,7 @@
 | [0414-third-maximum-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -164,6 +165,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -328,6 +330,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1512-number-of-good-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -339,4 +342,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0202-happy-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
