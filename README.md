@@ -105,6 +105,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0414-third-maximum-number) |
+| [0658-find-k-closest-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1051-height-checker) |
@@ -159,6 +160,7 @@
 | [0414-third-maximum-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0485-max-consecutive-ones) |
 | [0565-array-nesting](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0565-array-nesting) |
+| [0658-find-k-closest-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
@@ -206,6 +208,7 @@
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
@@ -253,6 +256,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0658-find-k-closest-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Binary Lifting
 |  |
@@ -266,6 +270,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0076-minimum-window-substring) |
+| [0658-find-k-closest-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -282,6 +287,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
