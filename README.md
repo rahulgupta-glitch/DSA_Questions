@@ -80,6 +80,7 @@
 | [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0728-self-dividing-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -107,6 +108,7 @@
 | [0414-third-maximum-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0976-largest-perimeter-triangle](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -166,6 +168,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
+| [0976-largest-perimeter-triangle](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1046-last-stone-weight) |
@@ -347,6 +350,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -356,4 +360,12 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1051-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
