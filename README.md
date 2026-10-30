@@ -55,6 +55,7 @@
 | [0155-min-stack](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0769-max-chunks-to-make-sorted](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -108,6 +109,7 @@
 | [0414-third-maximum-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0769-max-chunks-to-make-sorted](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1051-height-checker) |
@@ -122,6 +124,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -166,6 +169,7 @@
 | [0565-array-nesting](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0565-array-nesting) |
 | [0658-find-k-closest-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0769-max-chunks-to-make-sorted](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0896-monotonic-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -363,6 +367,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
 |  |
