@@ -175,6 +175,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0896-monotonic-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
+| [0941-valid-mountain-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0989-add-to-array-form-of-integer) |
