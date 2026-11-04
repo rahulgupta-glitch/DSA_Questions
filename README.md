@@ -184,6 +184,7 @@
 | [1046-last-stone-weight](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
