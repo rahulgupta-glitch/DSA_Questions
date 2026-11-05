@@ -205,6 +205,7 @@
 | [1920-build-array-from-permutation](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1929-concatenation-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Matrix
 |  |
@@ -233,6 +234,7 @@
 | [0905-sort-array-by-parity](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Tree
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
