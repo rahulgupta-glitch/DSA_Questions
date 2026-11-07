@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0047-permutations-ii) |
+| [0179-largest-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0414-third-maximum-number) |
@@ -141,6 +142,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
@@ -165,6 +167,7 @@
 | [0051-n-queens](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0217-contains-duplicate) |
@@ -385,6 +388,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0561-array-partition) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0976-largest-perimeter-triangle) |
