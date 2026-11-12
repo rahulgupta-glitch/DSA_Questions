@@ -209,6 +209,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1732-find-the-highest-altitude) |
@@ -225,6 +226,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
+| [1572-matrix-diagonal-sum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1672-richest-customer-wealth) |
 ## Algorithm X
 |  |
