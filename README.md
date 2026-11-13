@@ -84,6 +84,7 @@
 | [0728-self-dividing-numbers](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0989-add-to-array-form-of-integer) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -197,6 +198,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1051-height-checker) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -348,6 +350,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1920-build-array-from-permutation](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
