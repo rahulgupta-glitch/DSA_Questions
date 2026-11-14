@@ -187,6 +187,7 @@
 | [0658-find-k-closest-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0832-flipping-an-image](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0853-car-fleet) |
 | [0896-monotonic-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0904-fruit-into-baskets) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
+| [0832-flipping-an-image](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1672-richest-customer-wealth) |
 ## Algorithm X
@@ -248,6 +250,7 @@
 | [0202-happy-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+| [0832-flipping-an-image](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -350,6 +353,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1920-build-array-from-permutation](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1929-concatenation-of-array) |
@@ -357,6 +361,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Enumeration
 |  |
