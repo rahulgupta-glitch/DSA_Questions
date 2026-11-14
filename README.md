@@ -202,6 +202,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -230,6 +231,7 @@
 | [0037-sudoku-solver](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0832-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1672-richest-customer-wealth) |
 ## Algorithm X
@@ -302,6 +304,7 @@
 | [0098-validate-binary-search-tree](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0658-find-k-closest-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Binary Lifting
 |  |
