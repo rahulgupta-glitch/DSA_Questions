@@ -221,6 +221,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -234,6 +235,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Algorithm X
 |  |
 | ------- |
@@ -360,6 +362,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1920-build-array-from-permutation](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahulgupta-glitch/DSA_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
